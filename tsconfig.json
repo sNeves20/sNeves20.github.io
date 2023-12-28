@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "module": "esnext",
+      "allowJs": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "skipDefaultLibCheck": true,
+      "jsx": "preserve",
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+    },
+    "include": ["./src/**/*.{svelte,js,ts,json}"],
+    "exclude": ["node_modules"],
+  }
+  
